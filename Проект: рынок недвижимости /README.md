@@ -14,4 +14,4 @@
 2. Решение ad hoc задач с помощью SQL.
 3. Доработка дашборда в DataLens.
 
-## Инструменты: Yandex DataLens, SQL, Python
+## Инструменты: Yandex DataLens, SQL, Python, DBeaver
