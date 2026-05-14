@@ -2,7 +2,7 @@
 
 Портфолио аналитика данных: Python, SQL, визуализация, A/B-тесты.
 
-Теги: visualization, python, portfolio, sql, notebook, postgresql, eda, pandas, data-analysis, ab-testing, practicum, notebook-jupyter
+Теги: visualization, python, portfolio, sql, notebook, postgresql, eda, pandas, data-analysis, ab-testing, practicum, jupyter notebook.
 
 ## Описание проектов
 
